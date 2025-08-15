@@ -1,33 +1,0 @@
-[youtube] Extracting URL: https://www.youtube.com/watch?v=YaF6bxqrWzU
-[youtube] YaF6bxqrWzU: Downloading webpage
-[youtube] YaF6bxqrWzU: Downloading tv client config
-[youtube] YaF6bxqrWzU: Downloading tv player API JSON
-[youtube] YaF6bxqrWzU: Downloading ios player API JSON
-[youtube] YaF6bxqrWzU: Downloading m3u8 information
-[youtube] Extracting URL: https://www.youtube.com/watch?v=YaF6bxqrWzU
-[youtube] YaF6bxqrWzU: Downloading webpage
-[youtube] YaF6bxqrWzU: Downloading tv client config
-[youtube] YaF6bxqrWzU: Downloading tv player API JSON
-[youtube] YaF6bxqrWzU: Downloading ios player API JSON
-[youtube] YaF6bxqrWzU: Downloading m3u8 information
-[youtube] Extracting URL: https://www.youtube.com/watch?v=YaF6bxqrWzU
-[youtube] YaF6bxqrWzU: Downloading webpage
-[youtube] YaF6bxqrWzU: Downloading tv client config
-[youtube] YaF6bxqrWzU: Downloading tv player API JSON
-[youtube] YaF6bxqrWzU: Downloading ios player API JSON
-[youtube] YaF6bxqrWzU: Downloading m3u8 information
-[info] YaF6bxqrWzU: Downloading 1 format(s): 251
-[download] Destination: /var/folders/gd/ny5k3z1s3rxcc145z9mymbb00000gn/T/tmpr6bcsrzi/Find Your Specific Knowledge Through Action.webm
-[download]   0.1% of    1.62MiB at  251.08KiB/s ETA 00:06[download]   0.2% of    1.62MiB at  693.66KiB/s ETA 00:02[download]   0.4% of    1.62MiB at    1.29MiB/s ETA 00:01[download]   0.9% of    1.62MiB at    2.64MiB/s ETA 00:00[download]   1.9% of    1.62MiB at    1.98MiB/s ETA 00:00[download]   3.8% of    1.62MiB at    2.81MiB/s ETA 00:00[download]   7.7% of    1.62MiB at    3.09MiB/s ETA 00:00[download]  15.4% of    1.62MiB at    3.57MiB/s ETA 00:00[download]  30.9% of    1.62MiB at    3.14MiB/s ETA 00:00[download]  61.8% of    1.62MiB at    3.60MiB/s ETA 00:00[download] 100.0% of    1.62MiB at    4.61MiB/s ETA 00:00[download] 100% of    1.62MiB in 00:00:00 at 3.97MiB/s   
-ℹ Created 2 chunks for processing
-
-╭─────────────────────── Results ───────────────────────╮
-│ Processing Complete!                                  │
-│                                                       │
-│ 📹 Video: Find Your Specific Knowledge Through Action │
-│ 🎯 Goal: test                                         │
-│ 📊 Found: 0 insights, 0 actions, 0 quotes             │
-│ ⏱️  Chunks processed: 2                                │
-╰───────────────────────────────────────────────────────╯
-✓ Insights saved to: outputs/20250815_200943_test.yaml
-✓ Markdown report: outputs/20250815_200943_report.md
