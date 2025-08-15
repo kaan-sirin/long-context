@@ -14,12 +14,15 @@ AI-powered system for extracting insights from YouTube videos, podcasts, and art
 - CLI interface created with argparse and rich progress indicators
 - YAML output and markdown report generation
 - Complete core functionality for YouTube video processing
+- Audio splitting for large files (>25MB) to handle Whisper limits
+- **Fixed timestamp extraction - now correctly shows different times per chunk**
+- **Clickable markdown links that jump to exact moments in YouTube videos**
+- Tested and validated with multiple YouTube videos
 
 ## In Progress 🔄
-- Testing and validation of core system
+- System is fully functional and ready for production use
 
 ## Next Steps 📋
-- Test with real YouTube video
 - Add audio file processor (podcasts, MP3, etc.)
 - Add text file processor 
 - Error handling improvements
@@ -44,4 +47,4 @@ AI-powered system for extracting insights from YouTube videos, podcasts, and art
 - pyyaml (output format)
 - rich (CLI formatting)
 
-Last Updated: 2025-08-15
+Last Updated: 2025-08-15 20:13
