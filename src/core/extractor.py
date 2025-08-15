@@ -48,24 +48,20 @@ class InsightExtractor:
         
         system_prompt = (
             "# Role\n"
-            "You are an expert content analyst specializing in extracting specific insights "
-            "from transcribed content with precise timestamp tracking.\n\n"
+            "You are an expert content analyst extracting insights from video transcripts.\n\n"
             "# Task\n"
-            f"Analyze the provided content chunk and extract insights related to: {extraction_goal}\n\n"
+            f"Extract insights related to: {extraction_goal}\n\n"
             "# Guidelines\n"
             "- Focus specifically on the extraction goal\n"
-            "- For each insight, identify the most relevant portion of text it came from\n"
-            "- Extract exact quotes with their context\n"
-            "- Note actionable items with specific references\n"
-            "- Be precise and avoid generic observations\n"
-            "- If no relevant content found, return empty lists\n"
-            "- IMPORTANT: All insights should reference specific parts of the provided text\n\n"
+            "- Extract key insights, actionable items, and notable quotes\n"
+            "- Be precise and specific\n"
+            "- If no relevant content found, return empty lists\n\n"
             "# Output Format\n"
-            "Return insights as JSON with these fields:\n"
-            "- key_insights: [{\"content\": \"insight text\", \"text_reference\": \"relevant portion from transcript\"}]\n"
-            "- action_items: [{\"content\": \"action text\", \"text_reference\": \"relevant portion from transcript\"}]\n"
-            "- quotes: [{\"content\": \"exact quote\", \"text_reference\": \"surrounding context\"}]\n"
-            "- relevance_score: float 0-1 (how relevant to extraction goal)\n\n"
+            "Return JSON with these fields:\n"
+            "- key_insights: [list of important findings as strings]\n"
+            "- action_items: [list of actionable recommendations as strings]\n"
+            "- quotes: [list of notable direct quotes as strings]\n"
+            "- relevance_score: float 0-1\n\n"
         )
         
         user_prompt = (
@@ -125,45 +121,27 @@ class InsightExtractor:
         for chunk_result in chunk_insights:
             chunk_info = chunk_result.get('chunk_info', {})
             
-            # process key insights with text references
+            # process key insights (handle both structured and plain string formats)
             for insight in chunk_result.get('key_insights', []):
-                if isinstance(insight, dict):
-                    content = insight.get('content', str(insight))
-                    text_ref = insight.get('text_reference', '')
-                else:
-                    content = str(insight)
-                    text_ref = ''
-                
+                content = str(insight)  # just convert to string regardless of format
                 timestamped_insight = self._create_timestamped_item_with_reference(
-                    content, text_ref, chunk_info, source_info
+                    content, '', chunk_info, source_info
                 )
                 all_insights.append(timestamped_insight)
             
-            # process action items with text references
+            # process action items
             for action in chunk_result.get('action_items', []):
-                if isinstance(action, dict):
-                    content = action.get('content', str(action))
-                    text_ref = action.get('text_reference', '')
-                else:
-                    content = str(action)
-                    text_ref = ''
-                
+                content = str(action)
                 timestamped_action = self._create_timestamped_item_with_reference(
-                    content, text_ref, chunk_info, source_info
+                    content, '', chunk_info, source_info
                 )
                 all_actions.append(timestamped_action)
             
-            # process quotes with text references
+            # process quotes
             for quote in chunk_result.get('quotes', []):
-                if isinstance(quote, dict):
-                    content = quote.get('content', str(quote))
-                    text_ref = quote.get('text_reference', '')
-                else:
-                    content = str(quote)
-                    text_ref = ''
-                
+                content = str(quote)
                 timestamped_quote = self._create_timestamped_item_with_reference(
-                    content, text_ref, chunk_info, source_info
+                    content, '', chunk_info, source_info
                 )
                 all_quotes.append(timestamped_quote)
         
@@ -189,9 +167,11 @@ class InsightExtractor:
     ) -> TimestampedItem:
         """Create timestamped item with precise timestamp based on text reference"""
         
-        # try to find more precise timestamp based on text reference
-        precise_time = self._find_precise_timestamp(text_reference, chunk_info)
-        start_time = precise_time if precise_time is not None else chunk_info.get('start_time', 0)
+        # get the chunk start time - this is the main issue
+        chunk_start = chunk_info.get('start_time', 0)
+        
+        # for now, just use chunk start time since text reference matching isn't working
+        start_time = chunk_start
         
         timestamp_display = seconds_to_timestamp(start_time)
         

@@ -60,6 +60,7 @@ class ContentChunker:
                 current_chunk_text = self._get_overlap_text(current_chunk_text)
                 current_word_timestamps = self._get_overlap_timestamps(current_word_timestamps)
                 chunk_id += 1
+                chunk_start_time = None  # reset for next chunk
             
             # set start time for first segment in chunk
             if chunk_start_time is None:
