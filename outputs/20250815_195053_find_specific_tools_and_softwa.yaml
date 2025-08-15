@@ -1,0 +1,657 @@
+extraction_goal: find specific tools and software mentioned
+source_info:
+  source_type: youtube
+  title: "0'dan Otomasyon Ajans\u0131 Kurdum: \u0130lk M\xFC\u015Fteri 599$ (Tam Masterclass)"
+  url: https://www.youtube.com/watch?v=opRc5aCrm08
+  file_path: null
+  duration_seconds: 3518.0
+  processed_at: 2025-08-15 19:48:54.150245
+key_insights:
+- content: The content mentions 'SaaS', which stands for Software as a Service, as
+    one of the three services offered by the digital automation agency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions the use of 'Superbase' as a tool working in the background.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Superbase is mentioned as a tool that operates in the background and may
+    incur some costs.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bolt Lovable is mentioned as a tool used in the context of automation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fall AI is mentioned as a tool that is sufficient for use in simple systems.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: N8 is mentioned as a tool that integrates with many systems and has an
+    advantage when used with Bolt.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Super Base is mentioned as an important tool, especially for security settings.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The transcript mentions 'N8' as a tool or software related to automation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "The transcript mentions '\xC7e\xE7ipiti', 'Bolt', and 'N8N' as tools or\
+    \ software."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fal AI is mentioned as a tool used for customer accounts and as an add-on
+    system.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: CRM panel is mentioned as a tool that could be used.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: AI-supported brief collection system is mentioned.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo is mentioned as a tool for creating filtered lists of potential
+    customers.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fiverr is mentioned as a platform to hire someone for list extraction tasks.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo is mentioned in the context of extracting customer lists.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: GoDaddy is mentioned as a service for purchasing domains.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bolt is mentioned as a tool to create a simple internet list.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tool 'Bolt' is mentioned as a way to create a simple list.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions using 'GoDaddy' for purchasing domains.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tool 'Instantly' is used for warming up emails to prevent them from
+    being marked as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo and Fiverr are mentioned as tools/services used for obtaining email
+    lists and hiring freelancers.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions 'Instant E-mail' as a tool for creating and managing
+    email campaigns.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content refers to 'Chat.JPG' as a system or tool being used for email
+    content.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo is used to find customer lists.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fiverr is used to outsource tasks for cost efficiency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Instantly is used for warming up domains.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tools and software mentioned include Fiverr, Instantly, and Apollo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tool 'Instantly' is used for managing and warming up emails.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tool 'Apollo' is mentioned in the context of extracting requests.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions using 'Apollo' and 'Fiverr' for extracting and listing
+    leads.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The transcript mentions 'AI systems' as a tool previously tried by a customer.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The transcript mentions 'bold ve fallo' as tools to be used in the process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions using 'Falaya' and 'Bolt' as tools for developing
+    a try-on application.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tools and software mentioned include Falaya, Kling, and Cat V10.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Kling is mentioned as a tool that the speaker prefers to use for its good
+    price-performance ratio.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bolt is mentioned as a platform where the speaker wants to create a try-on
+    API.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: fal AI is mentioned in the context of using serverless client as per its
+    documentation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The content mentions 'Bolt' as a tool used for easier integration in AI
+    applications.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The term 'serverless' is mentioned as a method to be used in conjunction
+    with 'client' for AI integration.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The application is named 'AI Virtual Try On', which suggests a software
+    tool for virtual clothing try-ons.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The tool 'Canva' is mentioned for preparing a proposal.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Loom video is mentioned as a tool for creating a short video about how
+    the application works.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Clink is mentioned as a tool being used in the process of creating and
+    sharing visuals.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo is mentioned as a tool used for extracting lists.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+action_items:
+- content: Highlight the importance of using Super Base for security settings in software
+    development.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Consider using '\xC7e\xE7ipiti', 'Bolt', and 'N8N' for system development\
+    \ and automation processes."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider integrating Fal AI as an add-on to existing systems.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Explore the development of a CRM system for customer brief tracking.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Apollo to create a list of potential customers by opening
+    a free account and applying filters.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Fiverr to outsource list extraction tasks.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use GoDaddy to purchase a domain for your agency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create a simple internet list using Bolt.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using 'Bolt' for creating simple lists as part of the outreach
+    preparation process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Instantly to warm up emails to improve deliverability and
+    avoid spam filters.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase necessary domains from GoDaddy or similar services for outreach
+    purposes.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Apollo for obtaining email lists and Fiverr for hiring freelancers
+    to assist with list creation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using 'Instant E-mail' for setting up new email campaigns.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Utilize 'Chat.JPG' for creating replicable email systems.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider acquiring an Apollo account for customer list acquisition.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Apollo for list generation and Instantly for email warming.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Add extracted requests from Apollo to the campaign.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using 'bold ve fallo' for the application process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Determine which AI models can be used in Falaya for the try-on application.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Test the Cat V10 tool as it has not been tried before and is free of cost.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create an API key for Kling.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using 'Bolt' for easier AI integration as it is mentioned to simplify
+    the process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Implement 'serverless client' architecture for AI applications as suggested
+    in the transcript.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare a proposal using Canva.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider creating a Loom video to demonstrate how the application works.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Clink for creating and sharing visuals with customers.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+quotes:
+- content: "\xDC\xE7\xFCnc\xFCs\xFC de, SaaS dedi\u011Fimiz, yani yaz\u0131l\u0131\
+    m \u015Firketi kurmak diyeyim. Buna da SaaS diyece\u011Fiz. Software as a Service."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Arka plan\u0131nda da Superbase \xE7al\u0131\u015F\u0131yor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Arka plan\u0131nda da Superbase \xE7al\u0131\u015F\u0131yor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Burada genelde Bolt Lovable Mesela Ve arka planda zaten Super Base gibi\
+    \ \u015Feyler kullanmam\u0131z yeterli oluyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bir de Fall AI tabii ki.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xC7\xFCnk\xFC genelde N8'le kullanaca\u011F\u0131m\u0131z a\u015Famalarda\
+    \ bile ara y\xFCz\xFC Bolt'la yapman\u0131n bir avantaj\u0131 var."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Burada sadece Super Base'in alt\u0131n\u0131 biraz daha \xE7izmek gerekiyor.\
+    \ Super Base biraz daha \xF6nemli oluyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "N8 \u015Fablonlar\u0131n\u0131 nas\u0131l kullanabilirim? Nas\u0131l atapt\xF6\
+    r edilebilirim?"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xC7e\xE7ipiti'ye gidece\u011Fiz. \xC7e\xE7ipiti'ye soraca\u011F\u0131\
+    z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bolt ve N8N'i de geri al\u0131p buraya koyaca\u011F\u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Fal AI'da m\xFC\u015Fterinin Fal AI hesab\u0131n\u0131 kullan\u0131yor\
+    \ musunuz?"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: CRM paneli. Bu olabilir.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: AI destekli brief toplama sistemi.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xDCcretsiz s\u0131f\u0131rdan bir Apollo hesab\u0131 a\xE7abilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fiverr'den birine bu konuda talimat verebilirsiniz.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "M\xFC\u015Fteri listesi. Apollo yazd\u0131m buraya."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Normal GoDaddy'den vs. sat\u0131n alabilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bunu Bolt'tan yapabilirsiniz.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bunu Bolt'tan yapabilirsiniz.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunlar\u0131 normal GoDaddy'den vesaire bir yerden alabilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: E-mailleri normal biz Instantly'e giriyoruz.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ald\u0131k Apollo listemizi. Fiverr'daki Freelancer bizim i\xE7in orada\
+    \ listeyi \xE7\u0131karacak."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunlar\u0131 Instant E-mail'e de eklemekte fayda var."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Direkt Chat.JPG'nin ayn\u0131s\u0131n\u0131 kullanaca\u011F\u0131z"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan m\xFC\u015Fteri listesini bulduk."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Fiverr'de birine \xE7ektirdik. Bu tamamen ucuza gelsin diye."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Instantly'e \u0131s\u0131nmay\u0131 ba\u015Flatt\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Fiverr'dan listem gelmi\u015F olacak. Onu Instantly'e eklemi\u015F olaca\u011F\
+    \u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan bir liste belirlemi\u015Ftik."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Instantly'e maillerimizi girmi\u015Ftik."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Onlar\u0131n maillerini Instantly'e ekledik vs. Mailleri \u0131s\u0131\
+    tma. Bu mailleri \u0131s\u0131tma k\u0131sm\u0131n\u0131 da Instantly'den a\xE7\
+    m\u0131\u015Ft\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "O Fiverr'dan ald\u0131\u011F\u0131m\u0131z iste\u011Fi, Apollo'dan \xE7\
+    \u0131kard\u0131\u011F\u0131m\u0131z iste\u011Fi daha do\u011Frusu demem daha\
+    \ do\u011Fru olur."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "'Apollo'dan \xE7\u0131kard\u0131\u011F\u0131m\u0131z ve Fiverr'dan liste\
+    \ etti\u011Fimiz.'"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: '''We have tried AI systems in the past for our product.'''
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "'Bunu bold ve fallo yapaca\u011F\u0131z.'"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Beraber Falaya'dan kuraca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xD6ncelikle birinci a\u015Famada Bolt'a gidiyoruz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\u015Eimdi Falaya'ya d\xF6n\xFCyorum. Geldim Falaya'ya."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Kling genelde \xE7ok zor oluyor. O y\xFCzden \xF6ncelikle Kling'i denemek\
+    \ istiyorum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunu Cat V10'u daha \xF6nce denemedim. O y\xFCzden bir denemek istiyorum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Kling daha \xE7ok ho\u015Fuma gitti ya. Kling ile ilerleyece\u011Fim."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ve bolt'a gidiyorum. \u015Eimdi bolt'a geldik."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Her fal AI entegrasyonda. \xC7\xFCnk\xFC fal AI kendi dokumentasyonda\
+    \ diyor ki. Client kullan serverless kullanma diyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ama Bolt tam tersini yap\u0131nca. Daha kolay entegre ediyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "gelelim \u015Fimdi buraya bak\u0131yoruz ad\u0131n\u0131 ai virtual try\
+    \ on demi\u015F"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\u015Fimdi gidiyorum kanvaya tamam \u015Fimdi geldik kanvaya kanvada bir\
+    \ fiyat teklifi haz\u0131rlayaca\u011F\u0131z"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Biraz bu arada buraya k\u0131sa bir loom videosu da \xE7ekebilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Yine clink'i kullanaca\u011F\u0131m bu arada."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan listemizi \xE7\u0131kard\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+processing_chunks: 32
+total_processing_time: null
+metadata: {}
+custom_extractions: {}

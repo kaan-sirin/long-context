@@ -1,0 +1,1600 @@
+extraction_goal: extract the step by step instructions for building an agency, including
+  every product used in the process and how they are used
+source_info:
+  source_type: youtube
+  title: "0'dan Otomasyon Ajans\u0131 Kurdum: \u0130lk M\xFC\u015Fteri 599$ (Tam Masterclass)"
+  url: https://www.youtube.com/watch?v=opRc5aCrm08
+  file_path: null
+  duration_seconds: 3518.0
+  processed_at: 2025-08-15 19:35:56.887420
+key_insights:
+- content: 'The process of building a digital automation agency involves three main
+    services: developing internal systems, selling direct automation to clients, and
+    establishing a Software as a Service (SaaS) company.'
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The agency should initially focus on one of these three paths to ensure
+    a more structured and manageable start.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Developing internal systems involves automating processes within a company,
+    such as creating product visuals for a furniture company.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves creating an internal system for a company to automate
+    their product image creation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A simple application is developed to replace a manual system with an automated
+    one, specifically for a furniture company.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The system allows customers to upload furniture images, change backgrounds,
+    and convert them into videos.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The initial setup cost for the system is between $2000 to $5000, with a
+    maintenance fee of $150 to $200.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The system uses Bold for development and integrates with Falaya for AI
+    capabilities, with Superbase running in the background.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves building simple systems with minimal issues to function
+    as a digital automation agency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Superbase is used in the background for some systems, although it is not
+    always necessary.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bolt Lovable and Fall AI are mentioned as tools that are sufficient for
+    building simple systems.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The second phase involves directly selling automation to clients, using
+    tools like Bolt and N8 for interface development.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with developing a software system that allows users
+    to create product visuals, which can be set up in about an hour.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The system is marketed to textile brands through email marketing, offering
+    them free credits to encourage usage and eventual payment.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The initial step involves developing internal systems and small applications
+    for companies to generate initial revenue.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Learning and implementing automation using N8 templates is crucial in the
+    early stages.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The second stage involves creating more complex automations as experience
+    grows.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The final stage is establishing a software company, which is considered
+    the 'final boss' and should be approached after gaining sufficient experience
+    and handling initial free users.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves initially focusing on system development as a healthier
+    approach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "The use of '\xC7e\xE7ipiti' (likely a tool or platform) to evaluate and\
+    \ determine the steps to follow."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The mention of using 'Bolt' and 'N8N' as part of the process, though their
+    specific roles are not detailed.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The strategy includes developing internal systems for brands and selling
+    them as an agency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with creating a free Apollo account, which is used for
+    filtering and gathering potential client data.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Filters are applied in Apollo to target specific locations (e.g., United
+    States, Germany, Europe) and industries (e.g., Fashion, Textiles).
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Employee size filters are set to 11-20, 21-50, and 51-100 to target companies
+    that are not too small or too large.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Job titles related to marketing are added to the filters to identify relevant
+    contacts within companies.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A setting is used to limit the selection to one contact per company to
+    avoid redundancy.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Fiverr can be used to outsource the task of filtering and data collection
+    if needed.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with extracting a list of potential clients interested
+    in marketing, specifically targeting medium-sized companies in the US and Europe
+    with 11 to 100 employees.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The URL of the list is taken to Fiverr to hire someone for Apollo List
+    Extraction, which is an optional step as the list can also be extracted directly
+    from Apollo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: While the list is being extracted on Fiverr, the next step involves purchasing
+    a domain for the agency, which can be done through GoDaddy.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A simple website can be created for the agency using platforms like Bolt,
+    although it's not essential at the start.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The third step is preparing for outreach, which involves acquiring multiple
+    domains (e.g., .co, .com) to avoid spam issues when sending out mass emails.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: To build an agency, it is necessary to purchase multiple domains under
+    the agency's or company's name to avoid emails being marked as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create multiple email addresses using different domains to send emails
+    within limits, such as 100 emails per address.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set up a system where all emails from different addresses (e.g., emily@company.co,
+    sara@company.co, john@company.co) are redirected to a main email address (e.g.,
+    esat@company.com) for easier management of positive responses.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase domains from providers like GoDaddy and set up Google Business
+    accounts for these domains.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: In Turkey, setting up these email addresses is cheaper compared to Europe.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Begin by setting up 3 domains and 3 email addresses, allowing for a total
+    of 9 different emails to be used for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Send hundreds of emails from each address weekly to reach a large audience.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: To avoid emails being marked as spam, it's crucial to 'warm up' the emails
+    using a tool like Instantly.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The warming process involves creating internal email traffic to make the
+    email appear secure and trustworthy to systems like Google.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The warming process typically takes between 10 to 14 days, and the effectiveness
+    is measured by the health score of the email.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A high health score indicates that the email is ready for outreach without
+    being flagged as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The final step involves preparing for customer demos and sales once the
+    emails are warmed up.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with acquiring pre-warmed email accounts or creating
+    your own to maintain control and reduce costs.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Emails are written without links initially to avoid being marked as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo lists are used to gather potential client contacts, which can be
+    sourced through freelancers on platforms like Fiverr.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The outreach process involves writing a three-stage email sequence without
+    links, with the possibility of adding a meeting link in the third email.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Instagram campaigns are suggested as an additional method for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with focusing on internal system development rather
+    than automation and software companies.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The initial pricing strategy involves charging $2500 per project and $150-200
+    monthly for maintenance, with the possibility of offering lower prices to secure
+    the first client.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: For textile clients, a product image service is offered, which involves
+    setting up a specialized product image system.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apollo is used to find a customer list, which is then outsourced to someone
+    on Fiverr for cost efficiency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Domains are purchased and prepared for outreach, with Instantly used to
+    warm up emails.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A waiting period of approximately two weeks is planned to allow for email
+    warming and list preparation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: After two weeks, the list from Fiverr is added to Instantly, and emails
+    are ready for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process includes showing the list addition and initial client email
+    outreach, followed by a one-week wait for client responses.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The next steps involve preparing and sending demos based on client responses.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with determining the idea and preparing for the first
+    client engagement.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A list of potential clients is generated using Apollo, and the URL is used
+    to create a lead generation task on Fiverr.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: To avoid purchasing a premium account on Apollo, a technique is used to
+    generate a list more cheaply, which is suitable for one-time tests.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Emails are entered into Instantly for warming up, which involves checking
+    the health scores of the emails to ensure they are above 95%.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Domains are purchased and different domains are used for outreach preparation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The final steps involve reaching out to clients and handling sales, which
+    are planned for the last part of the process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves checking health scores, which should be above 95%.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Campaign requests are sourced from Fiverr and Apollo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The campaign section involves setting up email sequences, starting with
+    a 'reach out' email followed by a 'quick chat' email.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The call-to-action in emails is to offer a free custom demo instead of
+    scheduling a meeting.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The goal is to secure at least one customer, focusing on scalability and
+    simplicity.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Leads are added by selecting a CSV file and importing the list, focusing
+    on essential information like emails and names.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with collecting leads from Apollo and Fiverr.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Leads are imported and emails are prepared for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The campaign is resumed and emails are sent to potential clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The approach involves offering a free demo to clients without prior portfolio
+    preparation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The strategy is to gauge client interest and adapt based on feedback.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Positive client feedback is received, indicating interest in investing
+    if quality requirements are met.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with identifying potential clients and gathering their
+    information while respecting their privacy.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The next step involves creating an application using 'Bolt' and 'Falla'.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A presentation is prepared for the client, which may include a pricing
+    visual similar to those used in the past with 'R-spot'.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The application is tailored to the client's needs, specifically in the
+    textile industry, allowing them to visualize their models wearing specific clothing
+    items.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with deciding on a specific field, in this case, the
+    textile industry, and creating a system tailored to that field.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The first step involves using a platform called 'Falaya' to determine which
+    AI models can be used for the project.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The project involves creating a 'try on' application for clothing, specifically
+    t-shirts, where users can select a model and a t-shirt to see how it looks on
+    the model.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process includes finding images of t-shirts and models online to test
+    different models and decide which one to use.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The 'Falaya' platform is used to test different 'try on' applications,
+    such as 'Lefa' and 'Fashion try on', to determine which provides the best quality.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The 'Kling' application is specifically mentioned as being difficult to
+    use, but it is tested first by uploading images of the model and the t-shirt.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The cost of using the 'Kling' application is noted as 7 cents per use.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves testing different models to determine which one is
+    best suited for the agency's needs.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Kling is identified as a preferred product due to its performance and cost-effectiveness.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process includes using an automatic clothing type detection feature,
+    which is likely a part of Kling's functionality.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: API integration is a part of the process, with instructions to copy the
+    necessary APIs for further use.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves creating an API key, which is a crucial step in the
+    setup.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The use of 'Bolt' is emphasized for integrating APIs, with a specific instruction
+    to use English for setup.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: There is a specific instruction to avoid using 'Client' and instead use
+    'Serverless' for integration, contrary to the documentation's suggestion.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves uploading a model image and a clothing image, and
+    then using the API to dress the model with the clothing.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process involves creating a price offer using Canva, specifically utilizing
+    a price template for customization.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The focus is on directing clients towards a premium plan, particularly
+    emphasizing the middle price option.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Video generation is highlighted as a crucial component of the service offering.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: A login plus saving logic system is proposed, which requires setting up
+    a database.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The pricing strategy includes offering a monthly maintenance fee, initially
+    suggested at $100, but reduced to $49 to increase client engagement.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The approach involves not charging a maintenance fee initially to attract
+    clients, even though it is generally recommended to charge for it.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The process begins with creating a list of potential customers and sending
+    out emails to them.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Upon receiving a positive response from a potential customer, a demo and
+    pricing are prepared and sent to the customer.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: If the customer is interested, a meeting is scheduled to discuss further
+    details.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The agency focuses on digital automation, specifically targeting brands
+    in the textile sector.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Tools like Apollo are used to generate lists of potential clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Instagram is used to 'warm up' emails before reaching out to potential
+    clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The agency offers different packages, including video generation, to attract
+    clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: The initial project mentioned is priced at $600, but there is potential
+    to secure projects worth 3,000 to 10,000 euros.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+action_items:
+- content: Choose one of the three paths (internal systems development, direct automation
+    sales, or SaaS) to focus on initially when starting the agency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider automating internal processes for companies as a service offering,
+    such as automating the creation of product visuals.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop a simple application to automate product image creation for internal
+    use.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Integrate AI capabilities using Falaya to enhance the system's functionality.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set up a pricing model that includes an initial setup fee and ongoing maintenance
+    charges.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using Superbase for backend operations where necessary.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Utilize Bolt Lovable and Fall AI for creating simple and easy-to-learn
+    systems.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop client-facing interfaces using Bolt, especially when integrating
+    with multiple systems using N8.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop a system for creating product visuals that can be quickly set up.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use email marketing to reach potential clients, offering free credits to
+    incentivize initial use.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Focus on building small applications and automations for companies to generate
+    initial revenue.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Learn to use and adapt N8 templates for automation purposes.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Gradually move to more complex automation projects as experience is gained.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Plan to establish a software company after gaining experience and managing
+    initial user base.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Utilize '\xC7e\xE7ipiti' to evaluate and determine the steps for building\
+    \ the agency."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Incorporate 'Bolt' and 'N8N' into the agency's processes, though further
+    clarification on their use is needed.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Focus on developing and selling internal systems to brands as part of the
+    agency's offerings.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create a free Apollo account to start filtering potential clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Apply location and industry filters in Apollo to narrow down the target
+    audience.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set employee size filters to focus on medium-sized companies.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Add job titles related to marketing to the filters to find relevant contacts.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use the option to limit contacts to one per company to ensure diversity
+    in leads.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider hiring a freelancer on Fiverr to handle the filtering and data
+    collection process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Hire a freelancer on Fiverr to perform Apollo List Extraction for potential
+    client lists.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase a domain for the agency from GoDaddy.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider creating a simple website for the agency using platforms like
+    Bolt.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Acquire multiple domains to facilitate outreach and prevent emails from
+    being marked as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase multiple domains for the agency to manage email outreach effectively.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create multiple email addresses using these domains to distribute email
+    sending load and avoid spam filters.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Redirect all emails from these addresses to a main email address for centralized
+    management.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using domain providers like GoDaddy to purchase necessary domains.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set up Google Business accounts for each domain to manage emails.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: If operating in Turkey, take advantage of the lower costs for setting up
+    email addresses.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set up 3 domains and 3 email addresses to start the outreach process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Instantly to warm up the emails by creating internal traffic.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Monitor the health score of the emails to ensure they are ready for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Plan for customer demos and sales presentations after the email warming
+    process is complete.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider using pre-warmed email accounts or create your own to maintain
+    control over the outreach process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Write initial outreach emails without links to prevent them from being
+    marked as spam.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Utilize Apollo lists and consider hiring freelancers on Fiverr to compile
+    these lists.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Plan a three-stage email outreach sequence, potentially adding a meeting
+    link in the final email.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Explore Instagram campaigns as a supplementary outreach strategy.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Focus on developing internal systems initially.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider offering lower initial prices to secure the first client.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Apollo to gather customer lists and outsource tasks to Fiverr for cost
+    efficiency.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase domains and use Instantly to warm up emails for outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Plan a two-week waiting period for email warming and list preparation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: After the waiting period, add the list to Instantly and begin client outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare and send demos based on client feedback.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Generate a list of potential clients using Apollo and consider using Fiverr
+    for lead generation tasks to reduce costs.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Purchase domains and prepare them for outreach by adding them to Instantly
+    for email warming.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Monitor the health scores of emails in Instantly to ensure they are adequately
+    warmed up before outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Plan and execute client outreach and sales strategies as the final steps
+    in the process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Ensure health scores are above 95% before proceeding.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Fiverr and Apollo to gather campaign requests.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare email sequences with a strong call-to-action offering a free demo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Import leads using a CSV file, focusing on essential data like emails and
+    names.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Collect leads using platforms like Apollo and Fiverr.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare and send emails to potential clients offering a free demo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Resume the email campaign to initiate client outreach.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Monitor client responses and prepare for demos based on feedback.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Customize systems and presentations to align with client needs and logos.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Identify and list potential clients while ensuring their privacy is maintained.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop the application using 'Bolt' and 'Falla'.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare a client presentation that includes a pricing visual to help secure
+    the client.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Customize the application to meet the specific needs of the client, particularly
+    in the textile sector.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Decide on the industry and specific system to develop.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use the 'Falaya' platform to explore and select AI models suitable for
+    the project.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Collect images of t-shirts and models from the internet for testing purposes.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Test different 'try on' applications within 'Falaya' to evaluate their
+    quality and usability.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider the cost implications of using different applications, such as
+    'Kling'.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Test different models to evaluate their performance and suitability.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Kling for its favorable price-performance ratio.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Utilize Kling's automatic clothing type detection feature to streamline
+    the process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Copy and integrate Kling's APIs as part of the setup process.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create an API key as part of the initial setup.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Bolt for API integration and ensure the setup is done in English.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Follow the instruction to use 'Serverless' instead of 'Client' for easier
+    integration with Bolt.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Prepare model and clothing images for upload to utilize the API functionality.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Use Canva to create a customized price offer template for potential clients.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Emphasize the premium plan in client communications, particularly the middle
+    pricing option.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop a video generation service as a key offering.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Set up a database to support the login plus saving logic system.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Consider reducing initial maintenance fees to attract new clients, while
+    planning to introduce them later.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Create a list of potential customers using tools like Apollo.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Send introductory emails to potential clients and prepare demos and pricing
+    for interested parties.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Schedule meetings with interested clients to discuss project details.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Utilize Instagram to engage with potential clients and warm up email communications.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Develop different service packages to cater to various client needs, including
+    video generation.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+quotes:
+- content: "\u015Eimdi dijital otomasyon ajans\u0131 alt\u0131nda 3 farkl\u0131 mevzu\
+    \ olmu\u015F olacak. Birincisi, \u015Furadan b\xFCy\xFCteyim yaz\u0131y\u0131\
+    . Dahili sistemler geli\u015Ftirme."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xDC\xE7\xFCnc\xFCs\xFC de, SaaS dedi\u011Fimiz, yani yaz\u0131l\u0131\
+    m \u015Firketi kurmak diyeyim. Buna da SaaS diyece\u011Fiz. Software as a Service."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunu biz otomatik hale getirebiliriz. Yani \xFCr\xFCn g\xF6rsellerini\
+    \ otomatik halde yapmalar\u0131n\u0131 sa\u011Flayacaklar\u0131 bir aray\xFCz\
+    \ yapabiliriz bunlar i\xE7in."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunu bold da yapt\u0131n\u0131z mesela. Falaya ile de yapay zekas\u0131\
+    n\u0131 ba\u011Flad\u0131n\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "2000 ila 5000 dolar. \xD6nden para al\u0131yorsunuz. Bu tek seferlik \u015F\
+    ey i\xE7in. Sistemi kurmak i\xE7in ald\u0131\u011F\u0131n\u0131z para."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Arka plan\u0131nda da Superbase \xE7al\u0131\u015F\u0131yor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Arka plan\u0131nda da Superbase \xE7al\u0131\u015F\u0131yor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Burada genelde Bolt Lovable Mesela Ve arka planda zaten Super Base gibi\
+    \ \u015Feyler kullanmam\u0131z yeterli oluyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Bir de Fall AI tabii ki.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Burada biraz daha yine Bolt'u yazaca\u011F\u0131m. \xC7\xFCnk\xFC genelde\
+    \ N8'le kullanaca\u011F\u0131m\u0131z a\u015Famalarda bile ara y\xFCz\xFC Bolt'la\
+    \ yapman\u0131n bir avantaj\u0131 var."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ben normal insanlar\u0131n \xFCr\xFCn g\xF6rselli\u011Finin olu\u015F\
+    turmalar\u0131n\u0131 sa\u011Flayan bir sistem kurdum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\u0130lk param\u0131z\u0131 kazanmam\u0131z i\xE7in bir dahili sistem\
+    \ geli\u015Ftirme ve operasyon kurmam\u0131z gerekiyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "N8 \u015Fablonlar\u0131n\u0131 nas\u0131l kullanabilirim? Nas\u0131l atapt\xF6\
+    r edilebilirim?"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Art\u0131k kendi yaz\u0131l\u0131m \u015Firketimi kurmaya haz\u0131r olmu\u015F\
+    \ oluyorum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "O y\xFCzden ne yap\u0131yoruz? Burada depozitaya kullanaca\u011F\u0131\
+    z. Bunun hepsini kopyalayaca\u011F\u0131z. \xC7e\xE7ipiti'ye gidece\u011Fiz. \xC7\
+    e\xE7ipiti'ye soraca\u011F\u0131z. Nas\u0131l bir yolu de\u011Ferleyelim? Ne yapal\u0131\
+    m?"
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bolt ve N8N'i de geri al\u0131p buraya koyaca\u011F\u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ajans olarak markalara dahili sistem geli\u015Ftirip satmak diyeyim."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\"\xDCcretsiz s\u0131f\u0131rdan bir Apollo hesab\u0131 a\xE7abilirsiniz.\""
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\"Location'a geliyoruz. \xD6ncelikle ekleyelim. United States Germany\
+    \ direkt hatta Europe olarak ekleyeyim.\""
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: '"Industries Fashion diyelim. Fashion dedik. Bir de Textiles diyelim."'
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\"\xC7al\u0131\u015Fanlara geldi\u011Finizde bu arada. 1.10'u se\xE7meyi\
+    \ \xE7ok sevmiyorum.\""
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\"Marketing yazal\u0131m. \u015Euraya Marketing'e dair insanlar \xE7\u0131\
+    km\u0131\u015F olsun.\""
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: '"Max 1% per company."'
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\"Veya bunu zaten Fiverr'den birine yapt\u0131racaks\u0131n\u0131z.\""
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Fiverr'da gidece\u011Fiz. Diyece\u011Fiz ki ben Apollo List Extraction\
+    \ istiyorum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Normal GoDaddy'den sat\u0131n alabilirsiniz. Kendi ajans\u0131n\u0131\
+    z\u0131n ismiyle."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Outreach i\xE7in bizim birka\xE7 tane ihtiyac\u0131m\u0131z var. Bir farkl\u0131\
+    \ domeniler. Yani .co, .com gibi birka\xE7 tane farkl\u0131 domen almam\u0131\
+    z laz\u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ajans\u0131m\u0131z\u0131n veya \u015Firketimizin ad\u0131na birka\xE7\
+    \ tane farkl\u0131 domen almam\u0131z laz\u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Birka\xE7 tane e-mail adresi ve birka\xE7 tane farkl\u0131 domenine ihtiyac\u0131\
+    m\u0131z var."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunlar\u0131n hepsini enstanteden takip ediyoruz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Domainlerimizi ald\u0131\u011F\u0131m\u0131z\u0131 varsay\u0131yorum.\
+    \ Bunlar\u0131 normal GoDaddy'den vesaire bir yerden alabilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "T\xFCrkiye'de bu mailleri a\xE7mak \xE7ok daha ucuz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Burada 3 domain ve 3 mail adresi ile ba\u015Flayabilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: E-mailleri normal biz Instantly'e giriyoruz.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Ve o kendi i\xE7inde bir e-mail trafi\u011Fi olu\u015Fturuyor onun i\xE7\
+    in."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Amac\u0131m\u0131z health score'lar\u0131m\u0131z olabildi\u011Fince yukar\u0131\
+    da olmas\u0131 laz\u0131m."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Sonras\u0131nda yakla\u015F\u0131k 10 g\xFCn ile 14 g\xFCn bekliyorsunuz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "En temizi kendi mailinizi yapmak. Tamamen kontrol\xFC elinizde tutmak."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xC7\xFCnk\xFC ba\u015Flang\u0131\xE7ta link i\xE7erirse mailiniz direkt\
+    \ spam'a d\xFC\u015Fme listesini artt\u0131r\u0131yorsun."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Fiverr'daki Freelancer bizim i\xE7in orada listeyi \xE7\u0131karacak."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunlar\u0131 \u0130nstagram'da da eklemekte fayda var. Gidip Instagram'da\
+    \ bunun i\xE7in yeni bir kampanya olu\u015Fturmu\u015F olaca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Dedik ki biz buradan 2500 dolar proje ba\u015F\u0131na para alabiliriz.\
+    \ Ve 150-200 dolarl\u0131k ayl\u0131k bir maintenance alaca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan m\xFC\u015Fteri listesini bulduk. Bunun linkini ald\u0131k.\
+    \ Fiverr'de birine \xE7ektirdik."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Domen ald\u0131k. O domenleri ekledik. Instantly'e \u0131s\u0131nmay\u0131\
+    \ ba\u015Flatt\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Yakla\u015F\u0131k 2 hafta bekliyorum. 2 hafta sonra geri gelece\u011F\
+    im."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan bir liste belirlemi\u015Ftik. Onun URL'sini ald\u0131k. Fiverr'da\
+    \ bir lead generation G'ye yapt\u0131rd\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bu mailleri \u0131s\u0131tma k\u0131sm\u0131n\u0131 da instantly'den a\xE7\
+    m\u0131\u015Ft\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Health skorlar\u0131na bak\u0131yoruz. Yakla\u015F\u0131k %95'\xFCn \xFC\
+    st\xFCnde olmalar\u0131 yeterli."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: '"Would a completely free custom demo be interesting for you?"'
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: '"Otherwise I''d be glad to show you how it works in action."'
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Tek yapaca\u011F\u0131m\u0131z \u015Fey. Resume campaign. Buradan yapaca\u011F\
+    \u0131z. Ve kampanyam\u0131z ba\u015Flam\u0131\u015F oldu."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Sadece m\xFC\u015Fterilere size \xFCcretsiz bir demo yapmak istiyoruz\
+    \ diyece\u011Fiz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan \xE7\u0131kard\u0131\u011F\u0131m\u0131z ve Fiverr'dan liste\
+    \ etti\u011Fimiz. Onlar\u0131 buraya indirdik."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Demo i\xE7in bir \u015Fey ihtiyac\u0131n varsa bana s\xF6yleyebilirsin."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xD6ncelikle uygulama yap\u0131lmas\u0131 gerekiyor. Bunu bolt ve falla\
+    \ yapaca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "M\xFC\u015Fteriye sunum. Fiyatland\u0131rma g\xF6rseli diyeyim."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Biz tekstil alan\u0131nda bir \u015Fey yapaca\u011F\u0131z. Ve size \xF6\
+    zel bir sistem yapaca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Dedik ki biz tekstil alan\u0131nda bir \u015Fey yapaca\u011F\u0131z. Ve\
+    \ size \xF6zel bir sistem yapaca\u011F\u0131z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xD6ncelikle gidelim bir falaya'ya. Hangi yapay ziken modellerini kullanabiliriz.\
+    \ Onu belirleyelim."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "\xC7ok g\xFCzel try on uygulamalar\u0131 var burada."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Maliyetine de bakal\u0131m bu arada. 7 cent diyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Kling'i daha \xE7ok ho\u015Fuma gitti ya. Kling ile ilerleyece\u011Fim."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Clothing type diye bir \u015Fey de ekledik. Onu san\u0131r\u0131m Kling\
+    \ otomatik yap\u0131yor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bunlar\u0131n hepsini kopyalay\u0131n."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Add key deyip bir API anahtar\u0131 olu\u015Fturman\u0131z gerekiyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Ben bir try on API yapmak istiyorum.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: Client kullanma. Serverless kullanma.
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "M\xFC\u015Fteri geliyor, model resmi art\u0131 k\u0131yafet resmi y\xFC\
+    kl\xFCyor ve sen o k\u0131yafeti o modele giydiriyorsun."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Kanvaya geldik kanvada bir fiyat teklifi haz\u0131rlayaca\u011F\u0131\
+    z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Amac\u0131m\u0131z premium plan\u0131 y\xF6nlendirmek olacak ortadaki\
+    \ fiyat\u0131 y\xF6nlendirmek."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Video generation olaca\u011F\u0131 i\xE7in bunu b\xF6yle yap\u0131yorum."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Login plus saving logic i\xE7in database kurmam\u0131z gerekiyor."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bak\u0131m maliyeti almayaca\u011F\u0131z almayal\u0131m bu sefer."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "M\xFC\u015Fteri listelerimizi \xE7\u0131kard\u0131k. Maillerimizi att\u0131\
+    k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bir tane potansiyel m\xFC\u015Fteriden pozitif d\xF6n\xFC\u015F ald\u0131\
+    k. Onun i\xE7in demo haz\u0131rlad\u0131k. Fiyatlar\u0131 haz\u0131rlad\u0131\
+    k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Dedik ki \xF6ncelikle dijital otomasyon ajans\u0131 kuraca\u011F\u0131\
+    z."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Apollo'dan listemizi \xE7\u0131kard\u0131k. \u0130nstagram'dan eme\u011F\
+    lerimizi \u0131s\u0131tt\u0131k."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+- content: "Bu sadece 600 dolarl\u0131k bir proje. Ama bunun gibi onlarca proje ba\u011F\
+    layabilirsiniz."
+  timestamp_seconds: 0.0
+  timestamp_display: null
+  source_url: https://www.youtube.com/watch?v=opRc5aCrm08&t=0s
+  confidence: null
+processing_chunks: 32
+total_processing_time: null
+metadata: {}
+custom_extractions: {}

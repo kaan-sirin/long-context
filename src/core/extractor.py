@@ -54,15 +54,17 @@ class InsightExtractor:
             f"Analyze the provided content chunk and extract insights related to: {extraction_goal}\n\n"
             "# Guidelines\n"
             "- Focus specifically on the extraction goal\n"
-            "- Identify exact quotes and key points\n"
-            "- Note any actionable items or recommendations\n"
+            "- For each insight, identify the most relevant portion of text it came from\n"
+            "- Extract exact quotes with their context\n"
+            "- Note actionable items with specific references\n"
             "- Be precise and avoid generic observations\n"
-            "- If no relevant content found, return empty lists\n\n"
+            "- If no relevant content found, return empty lists\n"
+            "- IMPORTANT: All insights should reference specific parts of the provided text\n\n"
             "# Output Format\n"
             "Return insights as JSON with these fields:\n"
-            "- key_insights: [list of important findings]\n"
-            "- action_items: [list of actionable recommendations]\n"
-            "- quotes: [list of notable direct quotes]\n"
+            "- key_insights: [{\"content\": \"insight text\", \"text_reference\": \"relevant portion from transcript\"}]\n"
+            "- action_items: [{\"content\": \"action text\", \"text_reference\": \"relevant portion from transcript\"}]\n"
+            "- quotes: [{\"content\": \"exact quote\", \"text_reference\": \"surrounding context\"}]\n"
             "- relevance_score: float 0-1 (how relevant to extraction goal)\n\n"
         )
         
@@ -123,24 +125,45 @@ class InsightExtractor:
         for chunk_result in chunk_insights:
             chunk_info = chunk_result.get('chunk_info', {})
             
-            # process key insights
+            # process key insights with text references
             for insight in chunk_result.get('key_insights', []):
-                timestamped_insight = self._create_timestamped_item(
-                    insight, chunk_info, source_info
+                if isinstance(insight, dict):
+                    content = insight.get('content', str(insight))
+                    text_ref = insight.get('text_reference', '')
+                else:
+                    content = str(insight)
+                    text_ref = ''
+                
+                timestamped_insight = self._create_timestamped_item_with_reference(
+                    content, text_ref, chunk_info, source_info
                 )
                 all_insights.append(timestamped_insight)
             
-            # process action items
+            # process action items with text references
             for action in chunk_result.get('action_items', []):
-                timestamped_action = self._create_timestamped_item(
-                    action, chunk_info, source_info
+                if isinstance(action, dict):
+                    content = action.get('content', str(action))
+                    text_ref = action.get('text_reference', '')
+                else:
+                    content = str(action)
+                    text_ref = ''
+                
+                timestamped_action = self._create_timestamped_item_with_reference(
+                    content, text_ref, chunk_info, source_info
                 )
                 all_actions.append(timestamped_action)
             
-            # process quotes
+            # process quotes with text references
             for quote in chunk_result.get('quotes', []):
-                timestamped_quote = self._create_timestamped_item(
-                    quote, chunk_info, source_info
+                if isinstance(quote, dict):
+                    content = quote.get('content', str(quote))
+                    text_ref = quote.get('text_reference', '')
+                else:
+                    content = str(quote)
+                    text_ref = ''
+                
+                timestamped_quote = self._create_timestamped_item_with_reference(
+                    content, text_ref, chunk_info, source_info
                 )
                 all_quotes.append(timestamped_quote)
         
@@ -157,16 +180,20 @@ class InsightExtractor:
             processing_chunks=len(chunk_insights)
         )
     
-    def _create_timestamped_item(
+    def _create_timestamped_item_with_reference(
         self, 
-        content: str, 
+        content: str,
+        text_reference: str,
         chunk_info: Dict[str, Any], 
         source_info: Dict[str, Any]
     ) -> TimestampedItem:
-        """Create timestamped item with appropriate linking"""
+        """Create timestamped item with precise timestamp based on text reference"""
         
-        start_time = chunk_info.get('start_time', 0)
-        timestamp_display = seconds_to_timestamp(start_time) if start_time else None
+        # try to find more precise timestamp based on text reference
+        precise_time = self._find_precise_timestamp(text_reference, chunk_info)
+        start_time = precise_time if precise_time is not None else chunk_info.get('start_time', 0)
+        
+        timestamp_display = seconds_to_timestamp(start_time)
         
         # create clickable URL for YouTube
         source_url = None
@@ -178,4 +205,36 @@ class InsightExtractor:
             timestamp_seconds=start_time,
             timestamp_display=timestamp_display,
             source_url=source_url
+        )
+    
+    def _find_precise_timestamp(self, text_reference: str, chunk_info: Dict[str, Any]) -> float:
+        """Find precise timestamp for a text reference using word-level timestamps"""
+        chunk_start = chunk_info.get('start_time', 0)
+        
+        if not text_reference or not chunk_info.get('word_timestamps'):
+            return chunk_start
+        
+        # find the first few words from the text reference
+        ref_words = [word.lower().strip() for word in text_reference.split()[:3]]
+        
+        for word_data in chunk_info.get('word_timestamps', []):
+            word_text = word_data.get('word', '').lower().strip()
+            # remove punctuation for better matching
+            clean_word = ''.join(c for c in word_text if c.isalnum())
+            
+            if clean_word and any(clean_word in ref_word or ref_word in clean_word for ref_word in ref_words):
+                return word_data.get('start', chunk_start)
+        
+        # fallback to chunk start time
+        return chunk_start
+    
+    def _create_timestamped_item(
+        self, 
+        content: str, 
+        chunk_info: Dict[str, Any], 
+        source_info: Dict[str, Any]
+    ) -> TimestampedItem:
+        """Create timestamped item with appropriate linking (legacy method)"""
+        return self._create_timestamped_item_with_reference(
+            content, '', chunk_info, source_info
         )

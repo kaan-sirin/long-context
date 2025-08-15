@@ -1,0 +1,41 @@
+extraction_goal: extract key points
+source_info:
+  source_type: youtube
+  title: Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)
+  url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  file_path: null
+  duration_seconds: 213.0
+  processed_at: 2025-08-15 19:52:17.052006
+key_insights:
+- content: The speaker emphasizes a commitment to never give up, let down, or hurt
+    the other person.
+  timestamp_seconds: 16.479999542236328
+  timestamp_display: 0:16
+  source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=16s
+  confidence: null
+- content: There is an acknowledgment of a long-standing relationship where both parties
+    understand the dynamics.
+  timestamp_seconds: 16.479999542236328
+  timestamp_display: 0:16
+  source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=16s
+  confidence: null
+action_items: []
+quotes:
+- content: Never gonna give you up Never gonna let you down Never gonna run around
+    and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell
+    a lie and hurt you
+  timestamp_seconds: 16.479999542236328
+  timestamp_display: 0:16
+  source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=16s
+  confidence: null
+- content: We've known each other for so long Your heart's been aching but you're
+    too shy to say it Inside we both know what's been going on We know the game and
+    we're gonna play it
+  timestamp_seconds: 16.479999542236328
+  timestamp_display: 0:16
+  source_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=16s
+  confidence: null
+processing_chunks: 1
+total_processing_time: null
+metadata: {}
+custom_extractions: {}
