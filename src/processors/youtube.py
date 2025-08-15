@@ -118,25 +118,153 @@ class YouTubeProcessor:
     def _transcribe_audio(self, audio_path: str) -> Dict[str, Any]:
         """Transcribe audio using OpenAI Whisper with word-level timestamps"""
         try:
-            with open(audio_path, 'rb') as audio_file:
-                # use whisper with word-level timestamps
-                response = self.openai_client.audio.transcriptions.create(
-                    model="whisper-1",
-                    file=audio_file,
-                    response_format="verbose_json",
-                    timestamp_granularities=["word", "segment"]
-                )
-                
-                return {
-                    'text': response.text,
-                    'segments': response.segments,
-                    'words': getattr(response, 'words', []),  # word-level timestamps
-                    'language': getattr(response, 'language', 'unknown'),
-                    'duration': getattr(response, 'duration', None)
-                }
+            file_size = os.path.getsize(audio_path)
+            max_size = 24 * 1024 * 1024  # 24MB limit
+            
+            if file_size <= max_size:
+                # small enough, transcribe directly
+                return self._transcribe_single_file(audio_path)
+            else:
+                # too large, split into chunks and transcribe separately
+                return self._transcribe_large_file(audio_path)
                 
         except Exception as e:
             raise ValueError(f"Failed to transcribe audio: {str(e)}")
+    
+    def _transcribe_single_file(self, audio_path: str) -> Dict[str, Any]:
+        """Transcribe a single audio file"""
+        with open(audio_path, 'rb') as audio_file:
+            response = self.openai_client.audio.transcriptions.create(
+                model="whisper-1",
+                file=audio_file,
+                response_format="verbose_json",
+                timestamp_granularities=["word", "segment"]
+            )
+            
+            # convert to dict format for easier manipulation
+            segments = []
+            if hasattr(response, 'segments'):
+                for seg in response.segments:
+                    segments.append({
+                        'start': seg.start,
+                        'end': seg.end,
+                        'text': seg.text
+                    })
+            
+            words = []
+            if hasattr(response, 'words'):
+                for word in response.words:
+                    words.append({
+                        'start': word.start,
+                        'end': word.end,
+                        'word': word.word
+                    })
+            
+            return {
+                'text': response.text,
+                'segments': segments,
+                'words': words,
+                'language': getattr(response, 'language', 'unknown'),
+                'duration': getattr(response, 'duration', None)
+            }
+    
+    def _transcribe_large_file(self, audio_path: str) -> Dict[str, Any]:
+        """Split large audio file and transcribe in chunks"""
+        import ffmpeg
+        
+        # get audio duration
+        probe = ffmpeg.probe(audio_path)
+        duration = float(probe['format']['duration'])
+        
+        # split into 10-minute chunks (should be under 25MB each)
+        chunk_duration = 600  # 10 minutes
+        chunks = []
+        
+        base_dir = os.path.dirname(audio_path)
+        base_name = os.path.splitext(os.path.basename(audio_path))[0]
+        
+        for i, start_time in enumerate(range(0, int(duration), chunk_duration)):
+            chunk_path = os.path.join(base_dir, f"{base_name}_chunk_{i:03d}.mp3")
+            
+            # extract chunk
+            (
+                ffmpeg
+                .input(audio_path, ss=start_time, t=chunk_duration)
+                .output(chunk_path, acodec='mp3', audio_bitrate='64k')
+                .overwrite_output()
+                .run(quiet=True)
+            )
+            
+            # transcribe chunk
+            chunk_result = self._transcribe_single_file(chunk_path)
+            
+            # adjust timestamps to account for chunk offset
+            if chunk_result.get('segments'):
+                for segment in chunk_result['segments']:
+                    segment['start'] += start_time
+                    segment['end'] += start_time
+            
+            if chunk_result.get('words'):
+                for word in chunk_result['words']:
+                    word['start'] += start_time
+                    word['end'] += start_time
+            
+            chunks.append(chunk_result)
+            
+            # cleanup chunk file
+            os.remove(chunk_path)
+        
+        # combine all chunks
+        combined_text = ' '.join(chunk['text'] for chunk in chunks)
+        combined_segments = []
+        combined_words = []
+        
+        for chunk in chunks:
+            combined_segments.extend(chunk.get('segments', []))
+            combined_words.extend(chunk.get('words', []))
+        
+        return {
+            'text': combined_text,
+            'segments': combined_segments,
+            'words': combined_words,
+            'language': chunks[0].get('language', 'unknown') if chunks else 'unknown',
+            'duration': duration
+        }
+    
+    def _compress_audio_if_needed(self, audio_path: str) -> str:
+        """Compress audio if it exceeds Whisper's size limit"""
+        import ffmpeg
+        
+        file_size = os.path.getsize(audio_path)
+        max_size = 24 * 1024 * 1024  # 24MB to stay under 25MB limit
+        
+        if file_size <= max_size:
+            return audio_path
+        
+        # create compressed version
+        compressed_path = audio_path.rsplit('.', 1)[0] + '_compressed.mp3'
+        
+        try:
+            # compress audio: reduce bitrate and convert to mp3
+            (
+                ffmpeg
+                .input(audio_path)
+                .output(compressed_path, acodec='mp3', audio_bitrate='64k')
+                .overwrite_output()
+                .run(quiet=True)
+            )
+            
+            # verify the compressed file is smaller
+            compressed_size = os.path.getsize(compressed_path)
+            if compressed_size < max_size:
+                return compressed_path
+            else:
+                # if still too large, use original and let it fail with better error
+                return audio_path
+                
+        except Exception as e:
+            print(f"Warning: Audio compression failed: {e}")
+            return audio_path
 
 #### utility functions section ##############################################
 

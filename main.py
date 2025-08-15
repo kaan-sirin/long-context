@@ -133,7 +133,7 @@ def save_insights(insights, output_dir: Path, goal: str):
     output_file = output_dir / filename
     
     with open(output_file, 'w') as f:
-        yaml.dump(insights.dict(), f, default_flow_style=False, sort_keys=False)
+        yaml.dump(insights.model_dump(), f, default_flow_style=False, sort_keys=False)
     
     return output_file
 
