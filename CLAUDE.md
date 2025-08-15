@@ -114,7 +114,8 @@ user_prompt = (
 - **Format**: Short, lowercase, descriptive messages
 - **Examples**: "add youtube processor", "fix chunking overlap", "update timestamp parsing"
 - **Frequency**: Commit early and often - after each logical unit of work
-- **Push regularly**: Keep remote updated for backup and collaboration
+- **Push regularly**: Push to remote after every commit or set of related commits
+- **Command**: Always use `git push` after committing to keep GitHub updated
 
 ### Project Documentation
 - **PROJECT_STATUS.md**: Maintain current progress and next steps
